@@ -1,97 +1,51 @@
 <div align="center">
-  <img src="assets/hero.svg"
-       alt="Lana A. — Artificial Intelligence · Computer Vision · Intelligent Systems"
-       width="100%">
-</div>
+
+<img
+  src="hero.svg"
+  alt="Lana A. — Artificial Intelligence · Computer Vision · Intelligent Systems"
+  width="100%"
+/>
 
 <br />
 
-Artificial Intelligence graduate working at the intersection of computer vision and intelligent systems — interested in how machines perceive structure in data and turn it into working, practical tools.
+<p>
+  Artificial Intelligence graduate focused on
+  <strong>computer vision</strong> and
+  <strong>intelligent systems</strong>,
+  exploring how machines perceive structure in data and turn it into practical solutions.
+</p>
 
 <br />
-
-<div align="center">
-
-<!--
-  CURATED TECHNOLOGY BADGE WALL — STRUCTURE READY, CONTENT UNVERIFIED
-  Nothing below is confirmed. Replace [VERIFY: ...] entries only with
-  technologies you have genuinely used hands-on. Badge style (charcoal
-  label, cream text, flat-square) is the visual system — keep it
-  consistent once real entries are added.
--->
-
-<img src="https://img.shields.io/badge/Python-181512?style=flat-square&logoColor=f3ead9" alt="" />
-<img src="https://img.shields.io/badge/%5BVERIFY%5D-181512?style=flat-square&logoColor=f3ead9" alt="" />
-<img src="https://img.shields.io/badge/%5BVERIFY%5D-181512?style=flat-square&logoColor=f3ead9" alt="" />
-<img src="https://img.shields.io/badge/%5BVERIFY%5D-181512?style=flat-square&logoColor=f3ead9" alt="" />
-<br />
-<img src="https://img.shields.io/badge/%5BVERIFY%5D-181512?style=flat-square&logoColor=f3ead9" alt="" />
-<img src="https://img.shields.io/badge/%5BVERIFY%5D-181512?style=flat-square&logoColor=f3ead9" alt="" />
-<img src="https://img.shields.io/badge/%5BVERIFY%5D-181512?style=flat-square&logoColor=f3ead9" alt="" />
-<img src="https://img.shields.io/badge/%5BVERIFY%5D-181512?style=flat-square&logoColor=f3ead9" alt="" />
 
 </div>
 
-<br />
+---
 
-### Featured Projects
-
-<!--
-  FEATURED PROJECTS — PLACEHOLDER STRUCTURE ONLY
-  Populate only with real, verified projects. One block per project.
-  Keep the structure identical across entries once populated.
--->
+## Focus
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-**[VERIFY: Project Name]**
+### Computer Vision
 
-[VERIFY: one-line problem/idea]
-
-**Built:** [VERIFY: what was built]
-**Tech:** [VERIFY: key technologies]
-
-[Repository](#) &nbsp;·&nbsp; [Demo/Docs](#)
+Working with visual data, perception, and systems that extract meaningful information from images.
 
 </td>
-<td width="50%" valign="top">
 
-**[VERIFY: Project Name]**
+<td align="center" width="33%">
 
-[VERIFY: one-line problem/idea]
+### Machine Learning
 
-**Built:** [VERIFY: what was built]
-**Tech:** [VERIFY: key technologies]
-
-[Repository](#) &nbsp;·&nbsp; [Demo/Docs](#)
+Building and evaluating data-driven models with an emphasis on practical problem solving.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-**[VERIFY: Project Name]**
+<td align="center" width="33%">
 
-[VERIFY: one-line problem/idea]
+### Intelligent Systems
 
-**Built:** [VERIFY: what was built]
-**Tech:** [VERIFY: key technologies]
-
-[Repository](#) &nbsp;·&nbsp; [Demo/Docs](#)
-
-</td>
-<td width="50%" valign="top">
-
-**[VERIFY: Project Name]**
-
-[VERIFY: one-line problem/idea]
-
-**Built:** [VERIFY: what was built]
-**Tech:** [VERIFY: key technologies]
-
-[Repository](#) &nbsp;·&nbsp; [Demo/Docs](#)
+Exploring how AI components can work together to create useful, structured solutions.
 
 </td>
 </tr>
@@ -99,6 +53,22 @@ Artificial Intelligence graduate working at the intersection of computer vision 
 
 <br />
 
-### Contact
+<div align="center">
 
-[VERIFY: LinkedIn] &nbsp;·&nbsp; [VERIFY: Email] &nbsp;·&nbsp; [VERIFY: Portfolio site, if any]
+## Toolkit
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="48" alt="Python" />
+
+</div>
+
+<br />
+
+---
+
+<div align="center">
+
+### Building with AI, one system at a time.
+
+</div>

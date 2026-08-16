@@ -2,103 +2,31 @@
 
 <img
   src="hero.svg"
-  alt="Lana A. — Artificial Intelligence · Computer Vision · Intelligent Systems"
   width="100%"
+  alt="Lana A. — Artificial Intelligence, Computer Vision & Intelligent Systems"
 />
 
-<br>
-<br>
+<br><br>
+
+# Lana A.
+
+### Artificial Intelligence · Computer Vision · Intelligent Systems
 
 <p>
-  Artificial Intelligence graduate exploring the space between
-  <strong>perception, learning, and intelligent systems.</strong>
+Exploring how machines perceive, learn from data, and turn intelligence into practical systems.
 </p>
 
 <br>
 
-<a href="#work">
-  <strong>WORK</strong>
-</a>
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-<a href="#toolkit">
-  <strong>TOOLKIT</strong>
-</a>
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-<a href="#projects">
-  <strong>PROJECTS</strong>
-</a>
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-<a href="#contact">
-  <strong>CONTACT</strong>
-</a>
-
-</div>
-
-<br>
-<br>
-
----
-
-<a id="work"></a>
-
-<div align="center">
-
-## What I Work On
-
-<br>
-
-</div>
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### 01 — Perception
-
-Computer vision and visual understanding.
-
-<br>
-
-Working with images, patterns, features, and models that enable machines to extract meaningful information from visual data.
-
-</td>
-
-<td width="33%" valign="top">
-
-### 02 — Learning
-
-Machine learning and deep learning.
-
-<br>
-
-Exploring data-driven approaches to classification, prediction, representation learning, and model evaluation.
-
-</td>
-
-<td width="33%" valign="top">
-
-### 03 — Systems
-
-Intelligent, practical solutions.
-
-<br>
-
-Connecting data, models, and computational methods into systems designed around real problems rather than isolated experiments.
-
-</td>
-
-</tr>
-</table>
-
-<br>
-<br>
-
-<div align="center">
-
-<sub>
-My work sits at the intersection of data, perception, and intelligent systems.
-</sub>
+<a href="#technologies">Technologies</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#featured-projects">Featured Projects</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#all-projects">All Projects</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#domains">AI Domains</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#contact">Contact</a>
 
 </div>
 
@@ -106,14 +34,14 @@ My work sits at the intersection of data, perception, and intelligent systems.
 
 ---
 
-<a id="toolkit"></a>
+<a id="technologies"></a>
 
 <div align="center">
 
-## Toolkit
+## 🛠 Technologies
 
 <sub>
-Technologies I've worked with across AI, machine learning, computer vision, and development.
+A visual overview of the tools and technologies I've worked with.
 </sub>
 
 </div>
@@ -127,17 +55,17 @@ Technologies I've worked with across AI, machine learning, computer vision, and 
 
 ### Languages
 
-<br>
-
 <div align="center">
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" />
 
 <br><br>
 
 <img
-  src="https://img.shields.io/badge/SQL-181512?style=for-the-badge&logo=postgresql&logoColor=e9dcc0"
-  alt="SQL"
+src="https://img.shields.io/badge/SQL-181512?style=for-the-badge&logo=postgresql&logoColor=e9dcc0"
+alt="SQL"
 />
 
 </div>
@@ -148,17 +76,17 @@ Technologies I've worked with across AI, machine learning, computer vision, and 
 
 ### Machine Learning
 
-<br>
-
 <div align="center">
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras&theme=dark" />
 
 <br><br>
 
 <img
-  src="https://img.shields.io/badge/scikit--learn-181512?style=for-the-badge&logo=scikit-learn&logoColor=e9dcc0"
-  alt="scikit-learn"
+src="https://img.shields.io/badge/scikit--learn-181512?style=for-the-badge&logo=scikit-learn&logoColor=e9dcc0"
+alt="scikit-learn"
 />
 
 </div>
@@ -171,39 +99,22 @@ Technologies I've worked with across AI, machine learning, computer vision, and 
 
 <td width="50%" valign="top">
 
-### Computer Vision & Data
-
-<br>
+### Computer Vision
 
 <div align="center">
 
+<br>
+
 <img
-  src="https://img.shields.io/badge/OpenCV-181512?style=for-the-badge&logo=opencv&logoColor=e9dcc0"
-  alt="OpenCV"
+src="https://img.shields.io/badge/OpenCV-181512?style=for-the-badge&logo=opencv&logoColor=e9dcc0"
+alt="OpenCV"
 />
 
 <br><br>
 
 <img
-  src="https://img.shields.io/badge/NumPy-181512?style=for-the-badge&logo=numpy&logoColor=e9dcc0"
-  alt="NumPy"
-/>
-
-<img
-  src="https://img.shields.io/badge/Pandas-181512?style=for-the-badge&logo=pandas&logoColor=e9dcc0"
-  alt="Pandas"
-/>
-
-<br>
-
-<img
-  src="https://img.shields.io/badge/Matplotlib-181512?style=for-the-badge&logo=python&logoColor=e9dcc0"
-  alt="Matplotlib"
-/>
-
-<img
-  src="https://img.shields.io/badge/Seaborn-181512?style=for-the-badge&logo=python&logoColor=e9dcc0"
-  alt="Seaborn"
+src="https://img.shields.io/badge/Pillow-181512?style=for-the-badge&logo=python&logoColor=e9dcc0"
+alt="Pillow"
 />
 
 </div>
@@ -212,36 +123,128 @@ Technologies I've worked with across AI, machine learning, computer vision, and 
 
 <td width="50%" valign="top">
 
-### Development & Tools
-
-<br>
+### Data & Scientific Computing
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" />
+<br>
+
+<img
+src="https://img.shields.io/badge/NumPy-181512?style=for-the-badge&logo=numpy&logoColor=e9dcc0"
+alt="NumPy"
+/>
+
+<img
+src="https://img.shields.io/badge/Pandas-181512?style=for-the-badge&logo=pandas&logoColor=e9dcc0"
+alt="Pandas"
+/>
 
 <br><br>
 
 <img
-  src="https://img.shields.io/badge/Jupyter-181512?style=for-the-badge&logo=jupyter&logoColor=e9dcc0"
-  alt="Jupyter"
+src="https://img.shields.io/badge/Matplotlib-181512?style=for-the-badge&logo=python&logoColor=e9dcc0"
+alt="Matplotlib"
 />
 
 <img
-  src="https://img.shields.io/badge/Google%20Colab-181512?style=for-the-badge&logo=googlecolab&logoColor=e9dcc0"
-  alt="Google Colab"
+src="https://img.shields.io/badge/Seaborn-181512?style=for-the-badge&logo=python&logoColor=e9dcc0"
+alt="Seaborn"
 />
+
+<br><br>
+
+<img
+src="https://img.shields.io/badge/SciPy-181512?style=for-the-badge&logo=scipy&logoColor=e9dcc0"
+alt="SciPy"
+/>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Development
+
+<div align="center">
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+<br><br>
+
+<img
+src="https://img.shields.io/badge/Jupyter-181512?style=for-the-badge&logo=jupyter&logoColor=e9dcc0"
+alt="Jupyter"
+/>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Platforms & Environments
+
+<div align="center">
 
 <br>
 
 <img
-  src="https://img.shields.io/badge/Kaggle-181512?style=for-the-badge&logo=kaggle&logoColor=e9dcc0"
-  alt="Kaggle"
+src="https://img.shields.io/badge/Google%20Colab-181512?style=for-the-badge&logo=googlecolab&logoColor=e9dcc0"
+alt="Google Colab"
 />
 
 <img
-  src="https://img.shields.io/badge/Anaconda-181512?style=for-the-badge&logo=anaconda&logoColor=e9dcc0"
-  alt="Anaconda"
+src="https://img.shields.io/badge/Kaggle-181512?style=for-the-badge&logo=kaggle&logoColor=e9dcc0"
+alt="Kaggle"
+/>
+
+<br><br>
+
+<img
+src="https://img.shields.io/badge/Anaconda-181512?style=for-the-badge&logo=anaconda&logoColor=e9dcc0"
+alt="Anaconda"
+/>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Deployment & APIs
+
+<div align="center">
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=docker,fastapi,flask&theme=dark" />
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Other
+
+<div align="center">
+
+<br>
+
+<img
+src="https://img.shields.io/badge/CUDA-181512?style=for-the-badge&logo=nvidia&logoColor=e9dcc0"
+alt="CUDA"
 />
 
 </div>
@@ -253,11 +256,143 @@ Technologies I've worked with across AI, machine learning, computer vision, and 
 
 <br>
 
+---
+
+<a id="featured-projects"></a>
+
 <div align="center">
 
+## ✦ Featured Projects
+
 <sub>
-The toolkit will evolve with the projects.
+The projects that best represent my work, technical thinking, and interests.
 </sub>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 01 · Project Name
+
+**Computer Vision**
+
+A concise explanation of the problem, the approach,
+and what was built.
+
+<br>
+
+**Stack**
+
+`Python` `OpenCV` `PyTorch`
+
+<br><br>
+
+<a href="YOUR_REPOSITORY_URL">
+  <strong>VIEW REPOSITORY ↗</strong>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="YOUR_DEMO_URL">
+  <strong>DEMO ↗</strong>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 02 · Project Name
+
+**Machine Learning**
+
+A concise explanation of the problem,
+methodology, and outcome.
+
+<br>
+
+**Stack**
+
+`Python` `scikit-learn` `Pandas`
+
+<br><br>
+
+<a href="YOUR_REPOSITORY_URL">
+  <strong>VIEW REPOSITORY ↗</strong>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="YOUR_DEMO_URL">
+  <strong>DEMO ↗</strong>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 03 · Project Name
+
+**Intelligent Systems**
+
+A concise explanation of the system,
+its purpose, and technical approach.
+
+<br>
+
+**Stack**
+
+`Python` `TensorFlow` `NumPy`
+
+<br><br>
+
+<a href="YOUR_REPOSITORY_URL">
+  <strong>VIEW REPOSITORY ↗</strong>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 04 · Project Name
+
+**AI Application**
+
+A concise explanation highlighting
+the problem, implementation, and result.
+
+<br>
+
+**Stack**
+
+`Python` `PyTorch` `OpenCV`
+
+<br><br>
+
+<a href="YOUR_REPOSITORY_URL">
+  <strong>VIEW REPOSITORY ↗</strong>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<a href="#all-projects">
+  <strong>EXPLORE ALL PROJECTS ↓</strong>
+</a>
 
 </div>
 
@@ -265,78 +400,107 @@ The toolkit will evolve with the projects.
 
 ---
 
-<a id="projects"></a>
+<a id="all-projects"></a>
 
 <div align="center">
 
-## Featured Projects
+## ◇ All Projects
 
 <sub>
-A closer look at the projects that best represent my technical work.
+A broader collection of projects, experiments, coursework, and technical work.
 </sub>
 
 </div>
 
 <br>
-<br>
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-<h3>01 &nbsp;·&nbsp; Project Name</h3>
+### Project Name
 
-<sub>COMPUTER VISION</sub>
-
-<br>
-<br>
-
-A concise description of the problem and the solution.
-Focus on what makes the project technically interesting.
+`Computer Vision`
 
 <br>
-<br>
-
-<strong>Built with</strong>
-
-<br><br>
-
-Python · OpenCV · PyTorch
-
-<br><br>
 
 <a href="YOUR_REPOSITORY_URL">
-  <strong>VIEW REPOSITORY ↗</strong>
+  View Project ↗
 </a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-<h3>02 &nbsp;·&nbsp; Project Name</h3>
+### Project Name
 
-<sub>MACHINE LEARNING</sub>
-
-<br>
-<br>
-
-A concise description of the problem, methodology,
-and practical outcome.
+`Machine Learning`
 
 <br>
-<br>
-
-<strong>Built with</strong>
-
-<br><br>
-
-Python · scikit-learn · Pandas
-
-<br><br>
 
 <a href="YOUR_REPOSITORY_URL">
-  <strong>VIEW REPOSITORY ↗</strong>
+  View Project ↗
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### Project Name
+
+`Data Analysis`
+
+<br>
+
+<a href="YOUR_REPOSITORY_URL">
+  View Project ↗
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center">
+
+### Project Name
+
+`Deep Learning`
+
+<br>
+
+<a href="YOUR_REPOSITORY_URL">
+  View Project ↗
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### Project Name
+
+`AI System`
+
+<br>
+
+<a href="YOUR_REPOSITORY_URL">
+  View Project ↗
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### Project Name
+
+`Experiment`
+
+<br>
+
+<a href="YOUR_REPOSITORY_URL">
+  View Project ↗
 </a>
 
 </td>
@@ -344,79 +508,12 @@ Python · scikit-learn · Pandas
 </tr>
 </table>
 
-<br>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>03 &nbsp;·&nbsp; Project Name</h3>
-
-<sub>INTELLIGENT SYSTEM</sub>
-
-<br>
-<br>
-
-A concise explanation of what was built,
-why it matters, and the main technical approach.
-
-<br>
-<br>
-
-<strong>Built with</strong>
-
-<br><br>
-
-Python · TensorFlow · NumPy
-
-<br><br>
-
-<a href="YOUR_REPOSITORY_URL">
-  <strong>VIEW REPOSITORY ↗</strong>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>04 &nbsp;·&nbsp; Project Name</h3>
-
-<sub>AI APPLICATION</sub>
-
-<br>
-<br>
-
-A concise description highlighting the problem,
-implementation, and result.
-
-<br>
-<br>
-
-<strong>Built with</strong>
-
-<br><br>
-
-Python · PyTorch · OpenCV
-
-<br><br>
-
-<a href="YOUR_REPOSITORY_URL">
-  <strong>VIEW REPOSITORY ↗</strong>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
 <br>
 
 <div align="center">
 
 <a href="YOUR_GITHUB_PROJECTS_URL">
-  <strong>VIEW ALL FEATURED WORK →</strong>
+  <strong>VIEW MORE PROJECTS ↗</strong>
 </a>
 
 </div>
@@ -425,119 +522,54 @@ Python · PyTorch · OpenCV
 
 ---
 
+<a id="domains"></a>
+
 <div align="center">
 
-## More Work
-
-<sub>
-Additional projects, experiments, coursework, and technical explorations.
-</sub>
-
-</div>
+## 🧠 AI Domains
 
 <br>
 
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td align="center" width="20%">
 
-<strong>Project Name</strong>
-
-<br>
-
-<sub>Computer Vision</sub>
-
-<br><br>
-
-<a href="YOUR_REPOSITORY_URL">View Project ↗</a>
+**Computer**  
+**Vision**
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="20%">
 
-<strong>Project Name</strong>
-
-<br>
-
-<sub>Machine Learning</sub>
-
-<br><br>
-
-<a href="YOUR_REPOSITORY_URL">View Project ↗</a>
+**Machine**  
+**Learning**
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="20%">
 
-<strong>Project Name</strong>
-
-<br>
-
-<sub>Data Analysis</sub>
-
-<br><br>
-
-<a href="YOUR_REPOSITORY_URL">View Project ↗</a>
+**Deep**  
+**Learning**
 
 </td>
 
-</tr>
+<td align="center" width="20%">
 
-<tr>
-
-<td width="33%" align="center">
-
-<strong>Project Name</strong>
-
-<br>
-
-<sub>Deep Learning</sub>
-
-<br><br>
-
-<a href="YOUR_REPOSITORY_URL">View Project ↗</a>
+**Intelligent**  
+**Systems**
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="20%">
 
-<strong>Project Name</strong>
-
-<br>
-
-<sub>AI System</sub>
-
-<br><br>
-
-<a href="YOUR_REPOSITORY_URL">View Project ↗</a>
-
-</td>
-
-<td width="33%" align="center">
-
-<strong>Project Name</strong>
-
-<br>
-
-<sub>Experiment</sub>
-
-<br><br>
-
-<a href="YOUR_REPOSITORY_URL">View Project ↗</a>
+**Data**  
+**Analysis**
 
 </td>
 
 </tr>
 </table>
-
-<br>
-
-<div align="center">
-
-<a href="YOUR_GITHUB_PROJECTS_URL">
-  <strong>EXPLORE ALL PROJECTS ↗</strong>
-</a>
 
 </div>
 
@@ -551,19 +583,16 @@ Additional projects, experiments, coursework, and technical explorations.
 
 <br>
 
+`Computer Vision` · `Applied Machine Learning` · `Intelligent Systems`
+
+<br><br>
+
 <sub>
-Computer vision · intelligent systems · applied machine learning
+Learning, experimenting, and turning ideas into working systems.
 </sub>
-
-<br>
-<br>
-
-A continuous exploration of how models can move beyond prediction
-and become useful components of real-world systems.
 
 </div>
 
-<br>
 <br>
 
 ---
@@ -586,11 +615,10 @@ and become useful components of real-world systems.
   <strong>Email ↗</strong>
 </a>
 
-<br>
-<br>
+<br><br>
 
 <sub>
-© Lana A.
+Built with curiosity, code, and a lot of experiments.
 </sub>
 
 </div>

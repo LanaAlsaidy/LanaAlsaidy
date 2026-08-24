@@ -80,7 +80,10 @@
 
 ---
 
-## Technical Stack
+<div align="center">
+  <img src="./Technical_stack.gif" width="500" alt="Technical Stack">
+</div>
+
 
 ### Languages
 
@@ -108,7 +111,9 @@
 
 ---
 
-## Featured Projects
+<div align="center">
+  <img src="./Featured_projects.gif" width="500" alt="Featured Projects">
+</div>
 
 > A selection of work across artificial intelligence,
 > computer vision, deep learning, and data analysis.
@@ -182,21 +187,3 @@ strategies for BERT-based fake news classification.
 </div>
 
 ---
-
-## Research & Interests
-
-**Computer Vision** · **Intelligent Systems** · **Applied AI** ·
-**Machine Learning** · **Deep Learning** · **AI Ethics**
-
-Interested in how AI can be developed into solutions that are
-useful, reliable, and responsible.
-
----
-
-## Currently Exploring
-
-```text
-→ Building practical AI solutions
-→ Exploring Computer Vision & Intelligent Systems
-→ Improving machine learning workflows
-→ Exploring emerging AI technologies

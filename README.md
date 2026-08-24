@@ -18,15 +18,6 @@
 </div>
 
 
-
-## About Me
-
-Artificial Intelligence graduate with hands-on experience across
-**machine learning, deep learning, computer vision, and data analysis**.
-
-I enjoy designing AI solutions for real-world problems, from understanding
-data and developing models to evaluating results and exploring practical applications.
-
 ---
 
 ## What I Work On

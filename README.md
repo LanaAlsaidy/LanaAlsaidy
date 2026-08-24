@@ -16,6 +16,18 @@
 
 </div>
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/-EDE4DB?style=flat-square&logo=linkedin&logoColor=737373" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/-EDE4DB?style=flat-square&logo=gmail&logoColor=737373" alt="Email"/>
+</a>
+
+</div>
+
 
 
 ## About Me

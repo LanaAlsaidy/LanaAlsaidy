@@ -3,18 +3,6 @@
 </div>
 
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-737373?style=for-the-badge&logo=linkedin&logoColor=EDE4DB"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-737373?style=for-the-badge&logo=gmail&logoColor=EDE4DB"/>
-</a>
-
-</div>
-
 
 <div align="center">
 

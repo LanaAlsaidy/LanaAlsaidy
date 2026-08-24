@@ -1,624 +1,201 @@
 <div align="center">
 
-<img
-  src="hero.svg"
-  width="100%"
-  alt="Lana A. — Artificial Intelligence, Computer Vision & Intelligent Systems"
-/>
+# Hi, I'm Lana 👋
 
-<br><br>
+### Artificial Intelligence Graduate · AI & Computer Vision
 
-# Lana A.
+Building practical AI solutions with a focus on
+**Machine Learning, Deep Learning, Computer Vision, and Intelligent Systems.**
 
-### Artificial Intelligence · Computer Vision · Intelligent Systems
+<br/>
 
-<p>
-Exploring how machines perceive, learn from data, and turn intelligence into practical systems.
-</p>
-
-<br>
-
-<a href="#technologies">Technologies</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#featured-projects">Featured Projects</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#all-projects">All Projects</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#domains">AI Domains</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#contact">Contact</a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </div>
-
-<br>
 
 ---
 
-<a id="technologies"></a>
+## About Me
 
-<div align="center">
+I'm an **Artificial Intelligence graduate** interested in designing and developing
+AI solutions that address real-world problems.
 
-## 🛠 Technologies
+My work spans **machine learning, deep learning, computer vision, and data analysis**,
+with an emphasis on understanding the problem, selecting the right approach,
+and turning ideas into practical solutions.
 
-<sub>
-A visual overview of the tools and technologies I've worked with.
-</sub>
+I'm particularly interested in exploring how intelligent systems can be
+designed to be useful, reliable, and adaptable in real-world environments.
 
-</div>
+---
 
-<br>
+## What I Work On
 
 <table>
 <tr>
+<td width="50%">
 
-<td width="50%" valign="top">
+### Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Intelligent Systems
+- Applied AI
+
+</td>
+<td width="50%">
+
+### Computer Vision
+- Image Processing
+- Image Classification
+- Object Recognition
+- Visual Data Analysis
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Data
+- Data Analysis
+- Data Preprocessing
+- Data Visualization
+- Exploratory Data Analysis
+
+</td>
+<td width="50%">
+
+### AI & Technology
+- AI Solutions
+- AI Consulting
+- AI Ethics
+- Emerging AI Technologies
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technical Stack
 
 ### Languages
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=python,matlab,sql" />
+</p>
 
-<br>
+### AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" />
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
 
-<br><br>
+### Data & Development
 
-<img
-src="https://img.shields.io/badge/SQL-181512?style=for-the-badge&logo=postgresql&logoColor=e9dcc0"
-alt="SQL"
-/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>
 
-</div>
+**Libraries & Tools**
 
-</td>
-
-<td width="50%" valign="top">
-
-### Machine Learning
-
-<div align="center">
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras&theme=dark" />
-
-<br><br>
-
-<img
-src="https://img.shields.io/badge/scikit--learn-181512?style=for-the-badge&logo=scikit-learn&logoColor=e9dcc0"
-alt="scikit-learn"
-/>
-
-</div>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Computer Vision
-
-<div align="center">
-
-<br>
-
-<img
-src="https://img.shields.io/badge/OpenCV-181512?style=for-the-badge&logo=opencv&logoColor=e9dcc0"
-alt="OpenCV"
-/>
-
-<br><br>
-
-<img
-src="https://img.shields.io/badge/Pillow-181512?style=for-the-badge&logo=python&logoColor=e9dcc0"
-alt="Pillow"
-/>
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Data & Scientific Computing
-
-<div align="center">
-
-<br>
-
-<img
-src="https://img.shields.io/badge/NumPy-181512?style=for-the-badge&logo=numpy&logoColor=e9dcc0"
-alt="NumPy"
-/>
-
-<img
-src="https://img.shields.io/badge/Pandas-181512?style=for-the-badge&logo=pandas&logoColor=e9dcc0"
-alt="Pandas"
-/>
-
-<br><br>
-
-<img
-src="https://img.shields.io/badge/Matplotlib-181512?style=for-the-badge&logo=python&logoColor=e9dcc0"
-alt="Matplotlib"
-/>
-
-<img
-src="https://img.shields.io/badge/Seaborn-181512?style=for-the-badge&logo=python&logoColor=e9dcc0"
-alt="Seaborn"
-/>
-
-<br><br>
-
-<img
-src="https://img.shields.io/badge/SciPy-181512?style=for-the-badge&logo=scipy&logoColor=e9dcc0"
-alt="SciPy"
-/>
-
-</div>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Development
-
-<div align="center">
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-
-<br><br>
-
-<img
-src="https://img.shields.io/badge/Jupyter-181512?style=for-the-badge&logo=jupyter&logoColor=e9dcc0"
-alt="Jupyter"
-/>
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Platforms & Environments
-
-<div align="center">
-
-<br>
-
-<img
-src="https://img.shields.io/badge/Google%20Colab-181512?style=for-the-badge&logo=googlecolab&logoColor=e9dcc0"
-alt="Google Colab"
-/>
-
-<img
-src="https://img.shields.io/badge/Kaggle-181512?style=for-the-badge&logo=kaggle&logoColor=e9dcc0"
-alt="Kaggle"
-/>
-
-<br><br>
-
-<img
-src="https://img.shields.io/badge/Anaconda-181512?style=for-the-badge&logo=anaconda&logoColor=e9dcc0"
-alt="Anaconda"
-/>
-
-</div>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Deployment & APIs
-
-<div align="center">
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=docker,fastapi,flask&theme=dark" />
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Other
-
-<div align="center">
-
-<br>
-
-<img
-src="https://img.shields.io/badge/CUDA-181512?style=for-the-badge&logo=nvidia&logoColor=e9dcc0"
-alt="CUDA"
-/>
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
-<br>
+`NumPy` · `Pandas` · `Scikit-learn` · `TensorFlow` · `PyTorch`
+· `OpenCV` · `Matplotlib` · `Power BI`
 
 ---
 
-<a id="featured-projects"></a>
+## Featured Projects
 
-<div align="center">
+> A selection of projects exploring AI, machine learning,
+> computer vision, and data-driven solutions.
 
-## ✦ Featured Projects
-
-<sub>
-The projects that best represent my work, technical thinking, and interests.
-</sub>
-
-</div>
-
-<br>
+<br/>
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### 01 · Project Name
+### 🚦 Traffic Sign Recognition
 
-**Computer Vision**
+Computer vision and deep learning project focused on recognizing
+traffic signs from visual data.
 
-A concise explanation of the problem, the approach,
-and what was built.
-
-<br>
-
-**Stack**
-
-`Python` `OpenCV` `PyTorch`
-
-<br><br>
-
-<a href="YOUR_REPOSITORY_URL">
-  <strong>VIEW REPOSITORY ↗</strong>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="YOUR_DEMO_URL">
-  <strong>DEMO ↗</strong>
-</a>
+**Focus:** Computer Vision · Deep Learning · Image Classification
 
 </td>
 
 <td width="50%" valign="top">
 
-### 02 · Project Name
+### 👗 Fashion-MNIST CNN
 
-**Machine Learning**
+Deep learning project exploring convolutional neural networks
+for image classification.
 
-A concise explanation of the problem,
-methodology, and outcome.
-
-<br>
-
-**Stack**
-
-`Python` `scikit-learn` `Pandas`
-
-<br><br>
-
-<a href="YOUR_REPOSITORY_URL">
-  <strong>VIEW REPOSITORY ↗</strong>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="YOUR_DEMO_URL">
-  <strong>DEMO ↗</strong>
-</a>
+**Focus:** CNN · Deep Learning · TensorBoard
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-### 03 · Project Name
+### 📊 Employee Monitoring Dashboard
 
-**Intelligent Systems**
+Interactive dashboard developed to visualize and analyze
+employee-related data using Power BI.
 
-A concise explanation of the system,
-its purpose, and technical approach.
-
-<br>
-
-**Stack**
-
-`Python` `TensorFlow` `NumPy`
-
-<br><br>
-
-<a href="YOUR_REPOSITORY_URL">
-  <strong>VIEW REPOSITORY ↗</strong>
-</a>
+**Focus:** Data Analysis · Power BI · Data Visualization
 
 </td>
 
 <td width="50%" valign="top">
 
-### 04 · Project Name
+### 🔬 AI & Research
 
-**AI Application**
+Exploring machine learning approaches, model optimization,
+and practical applications of artificial intelligence.
 
-A concise explanation highlighting
-the problem, implementation, and result.
-
-<br>
-
-**Stack**
-
-`Python` `PyTorch` `OpenCV`
-
-<br><br>
-
-<a href="YOUR_REPOSITORY_URL">
-  <strong>VIEW REPOSITORY ↗</strong>
-</a>
+**Focus:** Machine Learning · Research · Applied AI
 
 </td>
-
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-<a href="#all-projects">
-  <strong>EXPLORE ALL PROJECTS ↓</strong>
-</a>
-
-</div>
-
-<br>
+> **More projects →**  
+> Explore the repositories below for detailed implementations, experiments, and results.
 
 ---
 
-<a id="all-projects"></a>
+## Research & Interests
 
-<div align="center">
+My interests include:
 
-## ◇ All Projects
+- **Computer Vision**
+- **Intelligent Systems**
+- **Applied Artificial Intelligence**
+- **Machine Learning & Deep Learning**
+- **AI Ethics**
+- **AI for Real-World Applications**
 
-<sub>
-A broader collection of projects, experiments, coursework, and technical work.
-</sub>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### Project Name
-
-`Computer Vision`
-
-<br>
-
-<a href="YOUR_REPOSITORY_URL">
-  View Project ↗
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-### Project Name
-
-`Machine Learning`
-
-<br>
-
-<a href="YOUR_REPOSITORY_URL">
-  View Project ↗
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-### Project Name
-
-`Data Analysis`
-
-<br>
-
-<a href="YOUR_REPOSITORY_URL">
-  View Project ↗
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" align="center">
-
-### Project Name
-
-`Deep Learning`
-
-<br>
-
-<a href="YOUR_REPOSITORY_URL">
-  View Project ↗
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-### Project Name
-
-`AI System`
-
-<br>
-
-<a href="YOUR_REPOSITORY_URL">
-  View Project ↗
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-### Project Name
-
-`Experiment`
-
-<br>
-
-<a href="YOUR_REPOSITORY_URL">
-  View Project ↗
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<a href="YOUR_GITHUB_PROJECTS_URL">
-  <strong>VIEW MORE PROJECTS ↗</strong>
-</a>
-
-</div>
-
-<br>
+I'm particularly interested in understanding not only how AI models work,
+but also how they can be integrated into meaningful and responsible solutions.
 
 ---
-
-<a id="domains"></a>
-
-<div align="center">
-
-## 🧠 AI Domains
-
-<br>
-
-<table>
-<tr>
-
-<td align="center" width="20%">
-
-**Computer**  
-**Vision**
-
-</td>
-
-<td align="center" width="20%">
-
-**Machine**  
-**Learning**
-
-</td>
-
-<td align="center" width="20%">
-
-**Deep**  
-**Learning**
-
-</td>
-
-<td align="center" width="20%">
-
-**Intelligent**  
-**Systems**
-
-</td>
-
-<td align="center" width="20%">
-
-**Data**  
-**Analysis**
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
 
 ## Currently Exploring
 
-<br>
-
-`Computer Vision` · `Applied Machine Learning` · `Intelligent Systems`
-
-<br><br>
-
-<sub>
-Learning, experimenting, and turning ideas into working systems.
-</sub>
-
-</div>
-
-<br>
-
----
-
-<a id="contact"></a>
-
-<div align="center">
-
-## Let's Connect
-
-<br>
-
-<a href="YOUR_LINKEDIN_URL">
-  <strong>LinkedIn ↗</strong>
-</a>
-
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL">
-  <strong>Email ↗</strong>
-</a>
-
-<br><br>
-
-<sub>
-Built with curiosity, code, and a lot of experiments.
-</sub>
-
-</div>
+```text
+Building → Practical AI solutions
+Exploring → Computer Vision & Intelligent Systems
+Learning → Emerging AI technologies
+Improving → Model development & data workflows

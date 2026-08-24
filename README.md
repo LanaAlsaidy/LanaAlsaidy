@@ -6,6 +6,8 @@
 
 <div align="center">
 
+### Let's Connect
+
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
   <img src="https://img.shields.io/badge/LinkedIn-EDE4DB?style=flat-square&logo=linkedin&logoColor=737373"/>
 </a>
@@ -15,24 +17,6 @@
 </a>
 
 </div>
-
-
-
-
-<div align="center">
-
-### Let's Connect
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://cdn.simpleicons.org/linkedin/737373" width="28" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://cdn.simpleicons.org/gmail/737373" width="28" alt="Email"/>
-</a>
-
-</div>
-
 
 
 

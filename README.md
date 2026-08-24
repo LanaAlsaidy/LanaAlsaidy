@@ -1,15 +1,7 @@
 <div align="center">
+  <img src="./hero.svg" width="100%" alt="Lana AI Hero">
+</div>
 
-# Lana
-
-### Artificial Intelligence Graduate
-**Machine Learning · Deep Learning · Computer Vision · Intelligent Systems**
-
-<br>
-
-I build practical AI solutions that turn data into meaningful results.
-
-<br><br>
 
 <a href="https://www.linkedin.com/in/YOUR_USERNAME">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>

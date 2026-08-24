@@ -2,18 +2,21 @@
 
 # Lana
 
-### Artificial Intelligence · Machine Learning · Computer Vision
-
-I build practical AI solutions for real-world problems.
+### Artificial Intelligence Graduate
+**Machine Learning · Deep Learning · Computer Vision · Intelligent Systems**
 
 <br>
 
+I build practical AI solutions that turn data into meaningful results.
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -22,119 +25,199 @@ I build practical AI solutions for real-world problems.
 
 <div align="center">
 
-<img src="YOUR_HERO_SVG_URL" width="850">
+<!-- Replace this with your custom animated SVG later -->
+
+<img src="YOUR_HERO_SVG_URL" width="900"/>
 
 </div>
 
 ---
 
-## `01` — About
+## About Me
 
-Artificial Intelligence graduate focused on **Machine Learning, Deep Learning,
-Computer Vision, and Intelligent Systems**.
+Artificial Intelligence graduate with hands-on experience across
+**machine learning, deep learning, computer vision, and data analysis**.
 
-Interested in turning data and AI into practical, meaningful solutions.
+I enjoy designing AI solutions for real-world problems, from understanding
+data and developing models to evaluating results and exploring practical applications.
 
 ---
 
-## `02` — Focus
+## What I Work On
 
 <table>
 <tr>
-<td align="center" width="25%">
 
-### AI
-Machine Learning  
-Deep Learning  
-Applied AI
+<td width="50%" valign="top">
 
-</td>
+### Artificial Intelligence
 
-<td align="center" width="25%">
-
-### Vision
-Computer Vision  
-Image Processing  
-Recognition
+- Machine Learning
+- Deep Learning
+- Applied AI
+- Intelligent Systems
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
+
+### Computer Vision
+
+- Image Processing
+- Image Classification
+- Object Recognition
+- Visual Data Analysis
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### Data
-Data Analysis  
-Visualization  
-Preprocessing
+
+- Data Analysis
+- Data Preprocessing
+- Data Visualization
+- Exploratory Data Analysis
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### Systems
-Intelligent Systems  
-AI Solutions  
-AI Ethics
+### AI & Technology
+
+- AI Solutions
+- AI Consulting
+- AI Ethics
+- Emerging AI Technologies
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## `03` — Tech Stack
+## Technical Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,numpy,pandas,matlab,git,github,vscode,jupyter" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,matlab" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+### Data & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>
+
+<p>
+
+`NumPy` · `Pandas` · `OpenCV` · `Matplotlib` · `Power BI`
 
 </p>
 
 ---
 
-## `04` — Selected Work
+## Featured Projects
 
-<div align="center">
+> A selection of work across artificial intelligence,
+> computer vision, deep learning, and data analysis.
 
-| Project | Area | Stack |
-|:--|:--:|:--|
-| **Traffic Sign Recognition** | Computer Vision | Python · Deep Learning |
-| **Fashion-MNIST CNN** | Deep Learning | CNN · TensorBoard |
-| **Employee Monitoring Dashboard** | Data Analytics | Power BI |
+<table>
 
-</div>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚦 Traffic Sign Recognition
+
+Computer vision application for recognizing traffic signs
+using deep learning techniques.
+
+**Python · Computer Vision · Deep Learning**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 👗 Fashion-MNIST CNN
+
+Image classification project using a convolutional neural
+network to classify Fashion-MNIST images.
+
+**CNN · Deep Learning · TensorBoard**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Employee Monitoring Dashboard
+
+Interactive Power BI dashboard designed to visualize
+and analyze employee-related data.
+
+**Power BI · Data Analysis · Visualization**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔬 Fake News Classification
+
+Research project exploring transfer learning and optimization
+strategies for BERT-based fake news classification.
+
+**BERT · NLP · Transfer Learning**
+
+</td>
+
+</tr>
+
+</table>
 
 <br>
 
 <div align="center">
 
-**[ View all projects → ](https://github.com/YOUR_USERNAME?tab=repositories)**
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
 
-</div>
+**Explore all projects →**
 
----
-
-## `05` — Interests
-
-`Computer Vision` · `Intelligent Systems` · `Applied AI` · `Deep Learning` · `AI Ethics`
-
----
-
-<div align="center">
-
-### Let's build something intelligent.
-
-<br>
-
-<a href="https://www.linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
 </div>
 
-<br>
+---
 
-<div align="center">
+## Research & Interests
 
-<sub>AI · Code · Curiosity</sub>
+**Computer Vision** · **Intelligent Systems** · **Applied AI** ·
+**Machine Learning** · **Deep Learning** · **AI Ethics**
 
-</div>
+Interested in how AI can be developed into solutions that are
+useful, reliable, and responsible.
+
+---
+
+## Currently Exploring
+
+```text
+→ Building practical AI solutions
+→ Exploring Computer Vision & Intelligent Systems
+→ Improving machine learning workflows
+→ Exploring emerging AI technologies

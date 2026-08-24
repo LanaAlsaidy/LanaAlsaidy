@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Lana 👋
+# Hi, I'm Lana 
 
 ### Artificial Intelligence Graduate · AI & Computer Vision
 

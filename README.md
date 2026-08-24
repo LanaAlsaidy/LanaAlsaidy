@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./hero.svg" width="100%" alt="Lana AI Hero">
+  <img src="./hero.gif" width="100%" alt="Lana AI Hero">
 </div>
 
 

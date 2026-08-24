@@ -6,9 +6,8 @@
 
 <div align="center">
 
-### Let's Connect
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/lana-abdullah-731862275">
   <img src="https://img.shields.io/badge/LinkedIn-EDE4DB?style=flat-square&logo=linkedin&logoColor=737373"/>
 </a>
 &nbsp;
@@ -17,7 +16,6 @@
 </a>
 
 </div>
-
 
 
 

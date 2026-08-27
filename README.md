@@ -240,7 +240,6 @@ strategies for BERT-based fake news classification.
 
 </div>
 
----
 
 <div align="center">
   <img src="./footer.gif" width="100%" alt="Lana AI Hero">

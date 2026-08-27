@@ -89,29 +89,79 @@ Responsible AI · AI Ethics · Emerging AI Technologies
 </div>
 
 
-### Languages
+<div align="left">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,matlab" />
-</p>
+<h3>LANGUAGES</h3>
 
-### AI / Machine Learning
+<a href="https://www.python.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" alt="Python">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.mathworks.com/products/matlab.html">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="42" alt="MATLAB">
+</a>
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
+<br>
 
-### Data & Development
+<h3>AI / MACHINE LEARNING</h3>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-</p>
+<a href="https://scikit-learn.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="42" alt="Scikit-learn">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.tensorflow.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="42" alt="TensorFlow">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://pytorch.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="42" alt="PyTorch">
+</a>
 
-<p>
+<br>
 
-`NumPy` · `Pandas` · `OpenCV` · `Matplotlib` · `Power BI`
+<h3>DATA & VISION</h3>
 
-</p>
+<a href="https://numpy.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="42" alt="NumPy">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://pandas.pydata.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="42" alt="Pandas">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://opencv.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="42" alt="OpenCV">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://powerbi.microsoft.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="42" alt="Power BI">
+</a>
+
+<br>
+
+<h3>DEVELOPMENT</h3>
+
+<a href="https://github.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" alt="GitHub">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" alt="VS Code">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://jupyter.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="42" alt="Jupyter">
+</a>
+
+<br>
+
+<h3>DATABASES</h3>
+
+<a href="https://www.mysql.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" alt="MySQL">
+</a>
+
+</div>
 
 ---
 

@@ -80,7 +80,7 @@
 ---
 
 <div align="center">
-  <img src="./Technical_stack.gif" width="500" alt="Technical Stack">
+  <img src="./Technical_Stack.gif" width="500" alt="Technical Stack">
 </div>
 
 
@@ -111,7 +111,7 @@
 ---
 
 <div align="center">
-  <img src="./Featured_projects.gif" width="500" alt="Featured Projects">
+  <img src="./Featured_Projects.gif" width="500" alt="Featured Projects">
 </div>
 
 > A selection of work across artificial intelligence,

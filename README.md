@@ -23,59 +23,64 @@
   <img src="./What_I_work_on.gif" width="500" alt="What I Work On">
 </div>
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### Artificial Intelligence
-
-- Machine Learning
-- Deep Learning
-- Applied AI
-- Intelligent Systems
-
-</td>
-
-<td width="50%" valign="top">
-
-### Computer Vision
-
-- Image Processing
-- Image Classification
-- Object Recognition
-- Visual Data Analysis
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Data
-
-- Data Analysis
-- Data Preprocessing
-- Data Visualization
-- Exploratory Data Analysis
-
-</td>
-
-<td width="50%" valign="top">
-
-### AI & Technology
-
-- AI Solutions
-- AI Consulting
-- AI Ethics
-- Emerging AI Technologies
-
-</td>
-
-</tr>
-</table>
+<div align="center"> 
+ 
+<table> 
+<tr> 
+ 
+<td width="50%" valign="top" align="center"> 
+ 
+<h3>Artificial Intelligence</h3> 
+ 
+Machine Learning · Deep Learning · Applied AI 
+ 
+</td> 
+ 
+<td width="50%" valign="top" align="center"> 
+ 
+<h3>Computer Vision</h3> 
+ 
+Image Processing · Image Classification · Object Recognition 
+ 
+</td> 
+ 
+</tr> 
+ 
+<tr> 
+ 
+<td width="50%" valign="top" align="center"> 
+ 
+<h3>Intelligent Systems</h3> 
+ 
+AI Solutions · AI Applications · Real-World AI 
+ 
+</td> 
+ 
+<td width="50%" valign="top" align="center"> 
+ 
+<h3>Data & Analytics</h3> 
+ 
+Data Analysis · Data Visualization · Exploratory Analysis 
+ 
+</td> 
+ 
+</tr> 
+ 
+<tr> 
+ 
+<td colspan="2" align="center"> 
+ 
+<h3>AI Ethics & Emerging Technology</h3> 
+ 
+Responsible AI · AI Ethics · Emerging AI Technologies 
+ 
+</td> 
+ 
+</tr> 
+ 
+</table> 
+ 
+</div>
 
 ---
 

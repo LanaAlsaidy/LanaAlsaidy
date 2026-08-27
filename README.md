@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-  <img src="./What_I_work_On.gif" width="500" alt="What I Work On">
+  <img src="./What_I_work_on.gif" width="500" alt="What I Work On">
 </div>
 
 <table>
